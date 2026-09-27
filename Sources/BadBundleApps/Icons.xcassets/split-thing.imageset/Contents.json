@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "split-thing.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
