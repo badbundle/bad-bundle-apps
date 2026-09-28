@@ -19,13 +19,13 @@ extension BadBundleApp {
     public static let trackSlash = BadBundleApp(
         id: "track-slash",
         name: "Track Slash",
-        tagline: "An open-source issue tracker for teams that need speed, clarity, and control."
+        tagline: "Open Source. An issue tracker for teams that need speed, clarity, and control."
     )
 
     public static let vault = BadBundleApp(
         id: "vault",
         name: "Vault",
-        tagline: "2FA and secret vault with offline encrypted backups."
+        tagline: "Open Source. 2FA and secret vault with offline encrypted backups."
     )
 
     public static let gps = BadBundleApp(
