@@ -25,7 +25,7 @@ extension BadBundleApp {
     public static let vault = BadBundleApp(
         id: "vault",
         name: "Vault",
-        tagline: "Open Source. 2FA and secret vault with offline encrypted backups."
+        tagline: "Open source. A vault for seed phrases, private keys and secrets, fully offline."
     )
 
     public static let gps = BadBundleApp(
